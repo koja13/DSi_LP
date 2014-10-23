@@ -1,0 +1,32 @@
+<html>
+<head></head>
+<body>
+<h2 class="title_section" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600; margin-top: 0px; margin-bottom: 10px; font-size: 20px; line-height: 25px; color: rgb(80, 80, 80);">Sta su racunari?</h2>
+
+<div style="color: rgb(80, 80, 80); font-family: WOL_Reg, 'Segoe UI', Tahoma, Helvetica, sans-serif; line-height: 20px; font-size: 15px;">
+<p class="para" style="margin-top: 0px; margin-bottom: 15px;">Racunari su masine koje izvrsavaju zadatke ili izracunavanja na osnovu skupa uputstava ili&nbsp;<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">programa</span>. Prvi elektronski racunari su proizvedeni cetrdesetih godina XX veka i bili su ogromne masine za cije su koriscenje bili potrebni timovi ljudi. U poredenju sa tim ranim modelima, danasnji racunari su zapanjujuci. Ne samo da su hiljadama puta brzi, vec mogu da stanu na sto, u krilo ili cak u dzep.</p>
+
+<p class="para" style="margin-top: 0px; margin-bottom: 15px;">Osnovu rada racunara cini interakcija izmedu hardvera i softvera.&nbsp;<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">Hardver</span>&nbsp;predstavljaju delovi racunara koje mozete da vidite i dodirnete, ukljucujuci kuciste i sve unutar njega. Najvazniji deo hardvera je mali pravougaoni cip unutar racunara koji se naziva<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">centralni procesor (CPU)</span>&nbsp;ili&nbsp;<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">mikroprocesor</span>. To je &bdquo;mozak&ldquo; racunara &mdash; deo koji prevodi uputstva i izvrsava izracunavanja. Delovi hardvera poput monitora, tastature, misa, stampaca i ostalih komponenti cesto se nazivaju&nbsp;<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">hardverski uredaji</span>&nbsp;ili&nbsp;<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">uredaji</span>.</p>
+
+<p class="para" style="margin-top: 0px; margin-bottom: 15px;"><span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">Softver</span>&nbsp;predstavljaju uputstva ili programi koji govore hardveru sta treba da radi. Program za obradu teksta koji koristite za pisanje pisama na racunaru je vrsta softvera. Operativni sistem (OS) je softver koji upravlja racunarom i uredajima koji su povezani sa njim. Dva poznata operativna sistema su Windows i Mac OS. Vas racunar koristi operativni sistem Windows.</p>
+
+<h2 class="title_section" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600; margin-top: 0px; margin-bottom: 10px; font-size: 20px; line-height: 25px; color: rgb(80, 80, 80);">Vrste racunara</h2>
+
+<div style="color: rgb(80, 80, 80); font-family: WOL_Reg, 'Segoe UI', Tahoma, Helvetica, sans-serif; line-height: 20px;">
+<p class="para" style="margin-top: 0px; margin-bottom: 15px;">Racunari se razlikuju po velicini i mogucnostima. Na jednom kraju skale se nalaze<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">superracunari</span>, veliki racunari sa hiljadama povezanih mikroporcesora koji izvrsavaju veoma slozena izracunavanja. Na drugom kraju su mali racunari ugradeni u automobile, TV uredaje, stereo sisteme, kalkulatore i uredaje. Oni su napravljeni za izvrsavanje ogranicenog broja zadataka.</p>
+
+<p class="para" style="margin-top: 0px; margin-bottom: 15px;"><span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">Licni racunar</span>&nbsp;ili&nbsp;<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">PC</span>&nbsp;je dizajniran da ga u jednom trenutku koristi samo jedna osoba. U ovom odeljku su opisane razne vrste licnih racunara: stoni racunari, laptop racunari, rucni racunari i tablet racunari.</p>
+
+<div class="section sectionNormal" style=" color: rgb(80, 80, 80); min-height: 0px; display: inline;">
+<h2 class="title_section" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600; margin-top: 0px; margin-bottom: 8px; font-size: 20px; line-height: 20px;">Stoni racunari</h2>
+<p class="para" style="margin-top: 0px; margin-bottom: 15px;"><img alt="" src="../../textFiles/kompjuter.png" /></p>
+<div>
+<p class="para" style="margin-top: 0px; margin-bottom: 15px;"><span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">Stoni racunari</span>&nbsp;su namenjeni za upotrebu na radnom stolu ili stolu. Oni su obicno veci i mocniji od ostalih vrsta licnih racunara. Stoni racunari su sastavljeni od odvojenih komponenti. Osnovna komponenta zvana&nbsp;<span class="newTerm" style="font-family: WOL_SB, 'Segoe UI Semibold', 'Segoe UI', Tahoma, Helvetica, sans-serif; font-weight: 600;">sistemska jedinica</span>&nbsp;je obicno pravougaono kuciste koje se nalazi na stolu ili ispod njega. Ostale komponente, kao sto su monitor, mis i tastatura, su povezane sa sistemskom jedinicom.</p>
+
+
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
